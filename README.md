@@ -1,5 +1,14 @@
 # Signal iOS
 
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-TempleEU%2FSignal--iOS-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TempleEU/Signal-iOS)
+[![Platform](https://img.shields.io/badge/Platform-iOS-000000?style=plastic&logo=apple&logoColor=white)](https://github.com/TempleEU/Signal-iOS)
+[![Privacy](https://img.shields.io/badge/Focus-Private%20Messaging-67e8a2?style=plastic&logo=github&logoColor=white)](https://github.com/TempleEU/Signal-iOS)
+[![Source](https://img.shields.io/badge/Source-Open%20Source-67e8a2?style=plastic&logo=github&logoColor=white)](https://github.com/TempleEU/Signal-iOS)
+
+</p>
+
 Signal is a free and open source messaging app for simple private communication with friends.
 
 [![Available on the App Store](https://signal.org/external/images/app-store-download-badge.svg)](https://apps.apple.com/app/id874139669)
@@ -37,4 +46,4 @@ Copyright 2013-2025 Signal Messenger, LLC
 
 Licensed under the GNU AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
 
-_Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries._
+_Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc._
